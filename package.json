@@ -1,0 +1,11 @@
+{
+  "name": "marketext-api",
+  "version": "1.0.0",
+  "description": "Permite el envío de SMS a nuestros clientes registrados",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marketext",
+  "license": "ISC"
+}
